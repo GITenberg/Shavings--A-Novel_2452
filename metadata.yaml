@@ -1,10 +1,8 @@
 _repo: Shavings--A-Novel_2452
-_version: 0.1.0
+_version: 0.2.0
 covers:
-- cover_type: archival
-  image_path: 2452/2452-h/shavings_files/title.gif
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lincoln, Joseph Crosby
@@ -14,6 +12,8 @@ creator:
     gutenberg_agent_id: '810'
     url: http://www.gutenberg.org/2009/agents/810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2452#Shavings--A-Novel
 gutenberg_issued: '2004-08-28'
 gutenberg_type: Text
 identifiers:
